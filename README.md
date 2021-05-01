@@ -4,7 +4,7 @@ Hi, I'm liu xueyong, a frontEnd web developer.👋
 - 🌱 I’m currently learning vue3
 - - 🤔 I’m looking for help with vue3
 - - 📫 How to reach me: liuxueyong123@126.com
-- 💬 Ask me about anything [here](https://github.com/Johnson-hd/Johnson-hd/issues)
+- 💬 Ask me about anything [here](https://github.com/liuxueyong123/liuxueyong123/issues)
 
 **Languages and Tools:**  
 
