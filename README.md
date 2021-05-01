@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I'm liu xueyong, a frontEnd web developer.👋
 
-<!--
-**liuxueyong123/liuxueyong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Agora](https://www.agora.io/cn/)
+- 🌱 I’m currently learning vue3
+- - 🤔 I’m looking for help with vue3
+- - 📫 How to reach me: liuxueyong123@126.com
+- 💬 Ask me about anything [here](https://github.com/Johnson-hd/Johnson-hd/issues)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/Johnson-hd/Johnson-hd/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Johnson-hd/Johnson-hd/master/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Johnson-hd/Johnson-hd/master/assets/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Johnson-hd/Johnson-hd/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Johnson-hd/Johnson-hd/master/assets/nodejs.png"></code>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liuxueyong123&count_private=true&show_icons=true&theme=radical)
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=liuxueyong123&layout=compact&theme=material-palenight" />
+
